@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p> I'm Baraka Lukumay!</p>
 <p>Code is the Art!</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barakadewise&show_icons=true&locale=en&layout=compact" alt="zainwen9" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barakadewise&show_icons=true&locale=en&layout=compact" alt="zainwen9" /></p> -->
 
 <!--
 **barakadewise/barakadewise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
