@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p> I'm Baraka Lukumay!</p>
-<p>Code is the Art!</p>
+<p>No Matter just keep coding!</p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barakadewise&show_icons=true&locale=en&layout=compact" alt="zainwen9" /></p> -->
 
 <!--
