@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p> I'm Baraka Lukumay!</p>
-<p>Clean code is just not the matter of cost effective. its's a matter of professinal survival!!</p>
+<p>Clean code is just not the matter of cost effective. its's a matter of professional survival!!</p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barakadewise&show_icons=true&locale=en&layout=compact" alt="zainwen9" /></p> -->
 
 <!--
